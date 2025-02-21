@@ -1,6 +1,6 @@
-Find Information about me and my projects! 
+# Find Information about me and my projects! 
 
-# FAQS:
+##  FAQS:
 
 ## Q: Where can i find you?
 
